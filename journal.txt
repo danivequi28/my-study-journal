@@ -1,0 +1,2 @@
+Entry 1: donwloaded fit.
+Entry 2: Learned git init, add and commit.
